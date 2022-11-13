@@ -1,0 +1,11 @@
+D:\ooop\reemabukhalil\bin\Debug\reemabukhalil.exe.config
+D:\ooop\reemabukhalil\bin\Debug\reemabukhalil.exe
+D:\ooop\reemabukhalil\bin\Debug\reemabukhalil.pdb
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.csproj.AssemblyReference.cache
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.csproj.SuggestedBindingRedirects.cache
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.Form1.resources
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.Properties.Resources.resources
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.csproj.GenerateResource.cache
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.csproj.CoreCompileInputs.cache
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.exe
+D:\ooop\reemabukhalil\obj\Debug\reemabukhalil.pdb
